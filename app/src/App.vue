@@ -20,7 +20,7 @@ const food = [
   },
   {
     name:"chocolate-icecream",
-    
+    img:"/berry-ice.png"
   }
 
 ]
