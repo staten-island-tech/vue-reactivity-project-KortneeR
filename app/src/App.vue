@@ -24,6 +24,9 @@ const food = [
   }
 
 ]
+
+
+
 </script>
 
 <style lang="scss" scoped>
